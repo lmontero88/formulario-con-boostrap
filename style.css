@@ -1,0 +1,9 @@
+.fab{
+    color: white;
+}
+.d-flex{
+    justify-content: flex-end;
+}
+label, input::placeholder{
+    font-size: 0.9em ;
+}
